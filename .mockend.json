@@ -5,6 +5,6 @@
     "source": {"name": "string", "url": "string"},
     "views": "int",
     "published": "boolean",
-    "createdAt": "date",
+    "createdAt": "date"
   }
 }
