@@ -1,0 +1,10 @@
+{
+  "Post": {
+    "title": "string",
+    "summary": "string",
+    "source": {"name": "string", "url": "string"},
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+  }
+}
